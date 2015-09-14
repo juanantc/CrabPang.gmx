@@ -56,6 +56,7 @@
     <object>objects\obj_personaje_score</object>
     <object>objects\obj_caracola1</object>
     <object>objects\obj_caracola2</object>
+    <object>objects\obj_temporizador</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\nivel1</room>
