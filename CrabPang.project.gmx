@@ -45,16 +45,17 @@
     <sprites name="menu">
       <sprite>sprites\spr_menu1</sprite>
       <sprite>sprites\spr_menu2</sprite>
+      <sprite>sprites\spr_menu_inicial</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\fondo_mar1</background>
     <background>background\fondo_mar2</background>
-    <background>background\fondo_mar3</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\script_IA.gml</script>
+    <script>scripts\script_IA_nivel1.gml</script>
+    <script>scripts\script_IA_nivel2.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_suelo</object>
@@ -66,14 +67,17 @@
     <object>objects\obj_personaje_score</object>
     <object>objects\obj_caracola1</object>
     <object>objects\obj_caracola2</object>
-    <object>objects\obj_temporizador</object>
-    <object>objects\obj_menu</object>
+    <object>objects\obj_caracola1_nivel2</object>
+    <object>objects\obj_caracola2_nivel2</object>
+    <object>objects\obj_menu_inicial</object>
+    <object>objects\obj_menu1</object>
     <object>objects\obj_menu2</object>
+    <object>objects\obj_temporizador</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\menu_inicial</room>
     <room>rooms\nivel1</room>
     <room>rooms\nivel2</room>
-    <room>rooms\nivel3</room>
     <room>rooms\menu1</room>
     <room>rooms\menu2</room>
   </rooms>

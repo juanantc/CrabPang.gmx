@@ -12,6 +12,6 @@ if d > max_x
 
 x = random_range(i,d)
   
-instance_create (x,0,obj_caracola1)
+instance_create (x,0,obj_caracola1_nivel2)
 
 //show_debug_message("i: " + string(i) + ", " + "d: " + string(d))
