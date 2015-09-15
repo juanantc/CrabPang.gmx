@@ -54,8 +54,7 @@
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\script_IA_nivel1.gml</script>
-    <script>scripts\script_IA_nivel2.gml</script>
+    <script>scripts\script_IA.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_suelo</object>

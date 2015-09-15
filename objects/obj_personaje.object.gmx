@@ -490,7 +490,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_caracola1">
+    <event eventtype="4" ename="obj_caracola2">
       <action>
         <libid>1</libid>
         <id>541</id>
@@ -559,7 +559,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>score &lt;= 0</string>
+            <string>score &lt;= 2</string>
           </argument>
         </arguments>
       </action>
@@ -640,7 +640,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_caracola2">
+    <event eventtype="4" ename="obj_caracola1">
       <action>
         <libid>1</libid>
         <id>541</id>
@@ -709,7 +709,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>score &lt;= 2</string>
+            <string>score &lt;= 0</string>
           </argument>
         </arguments>
       </action>

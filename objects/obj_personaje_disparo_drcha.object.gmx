@@ -176,7 +176,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_caracola1">
+    <event eventtype="4" ename="obj_caracola2">
       <action>
         <libid>1</libid>
         <id>203</id>
@@ -260,7 +260,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_caracola2">
+    <event eventtype="4" ename="obj_caracola1">
       <action>
         <libid>1</libid>
         <id>203</id>
