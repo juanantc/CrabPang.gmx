@@ -15,7 +15,6 @@
     <sprites name="personaje">
       <sprite>sprites\spr_personaje</sprite>
       <sprite>sprites\spr_personaje_izqda</sprite>
-      <sprite>sprites\spr_personaje_mov</sprite>
       <sprite>sprites\spr_personaje_drcha</sprite>
       <sprite>sprites\spr_personaje_salto</sprite>
       <sprite>sprites\spr_personaje_rojo</sprite>
@@ -39,6 +38,10 @@
       <sprite>sprites\spr_enemigo_disparo_izqda</sprite>
       <sprite>sprites\spr_enemigo_disparo_drcha</sprite>
     </sprites>
+    <sprites name="menu">
+      <sprite>sprites\spr_menu1</sprite>
+      <sprite>sprites\spr_menu2</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\fondo_mar1</background>
@@ -57,11 +60,15 @@
     <object>objects\obj_caracola1</object>
     <object>objects\obj_caracola2</object>
     <object>objects\obj_temporizador</object>
+    <object>objects\obj_menu</object>
+    <object>objects\obj_menu2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\nivel1</room>
     <room>rooms\nivel2</room>
     <room>rooms\nivel3</room>
+    <room>rooms\menu1</room>
+    <room>rooms\menu2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
