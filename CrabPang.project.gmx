@@ -52,6 +52,9 @@
     <background>background\fondo_mar3</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script_IA.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_suelo</object>
     <object>objects\obj_borde</object>
