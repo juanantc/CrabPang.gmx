@@ -7,6 +7,7 @@
   <sounds name="sound">
     <sound>sound\sound_disparo</sound>
     <sound>sound\sound_fondo_mar</sound>
+    <sound>sound\sound_error</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_suelo</sprite>
